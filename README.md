@@ -33,24 +33,24 @@ incluindo um tema tão multifacetado quanto "Natty or Not". Veja como:
 ## 🛠️ Ferramentas de IA que Podem Ser Utilizadas
 
 ### 💬 Texto e Raciocínio
-- **[ChatGPT (OpenAI)](https://chat.openai.com)** — Explicações, debates, roteiros e análises aprofundadas
-- **[Claude (Anthropic)](https://claude.ai)** — Discussões éticas e análises longas com nuance
-- **[Gemini (Google)](https://gemini.google.com)** — Pesquisa integrada com dados atuais da web
-- **[IBM watsonx.ai](https://www.ibm.com/watsonx)** — Análise de dados e NLP em contextos corporativos
+- **[ChatGPT (OpenAI)](https://chat.openai.com)** — Explicações, debates, roteiros e análises aprofundadas → [📄 Ver detalhes](tools/chatgpt.md)
+- **[Claude (Anthropic)](https://claude.ai)** — Discussões éticas e análises longas com nuance → [📄 Ver detalhes](tools/claude.md)
+- **[Gemini (Google)](https://gemini.google.com)** — Pesquisa integrada com dados atuais da web → [📄 Ver detalhes](tools/gemini.md)
+- **[IBM watsonx.ai](https://www.ibm.com/watsonx)** — Análise de dados e NLP em contextos corporativos → [📄 Ver detalhes](tools/watsonx.md)
 
 ### 🖼️ Imagem e Visão Computacional
-- **[DALL·E 3 (OpenAI)](https://openai.com/dall-e-3)** — Geração de ilustrações sobre o tema
-- **[Midjourney](https://www.midjourney.com)** — Criação de imagens hiper-realistas de atletas
-- **[Stable Diffusion](https://stability.ai)** — Modelos open-source para composição corporal visual
+- **[DALL·E 3 (OpenAI)](https://openai.com/dall-e-3)** — Geração de ilustrações sobre o tema → [📄 Ver detalhes](tools/dalle3.md)
+- **[Midjourney](https://www.midjourney.com)** — Criação de imagens hiper-realistas de atletas → [📄 Ver detalhes](tools/midjourney.md)
+- **[Stable Diffusion](https://stability.ai)** — Modelos open-source para composição corporal visual → [📄 Ver detalhes](tools/stable-diffusion.md)
 
 ### 🎙️ Áudio e Vídeo
-- **[ElevenLabs](https://elevenlabs.io)** — Geração de narração para podcasts ou vídeos
-- **[HeyGen](https://www.heygen.com)** — Avatares de IA para apresentações sobre o tema
-- **[Runway ML](https://runwayml.com)** — Edição e geração de vídeos com IA
+- **[ElevenLabs](https://elevenlabs.io)** — Geração de narração para podcasts ou vídeos → [📄 Ver detalhes](tools/elevenlabs.md)
+- **[HeyGen](https://www.heygen.com)** — Avatares de IA para apresentações sobre o tema → [📄 Ver detalhes](tools/heygen.md)
+- **[Runway ML](https://runwayml.com)** — Edição e geração de vídeos com IA → [📄 Ver detalhes](tools/runway-ml.md)
 
 ### 📊 Dados e Análise
-- **[Julius AI](https://julius.ai)** — Análise de dados de atletas (peso, % gordura, marcadores hormonais)
-- **[Perplexity AI](https://www.perplexity.ai)** — Pesquisa científica com fontes citadas
+- **[Julius AI](https://julius.ai)** — Análise de dados de atletas (peso, % gordura, marcadores hormonais) → [📄 Ver detalhes](tools/julius-ai.md)
+- **[Perplexity AI](https://www.perplexity.ai)** — Pesquisa científica com fontes citadas → [📄 Ver detalhes](tools/perplexity.md)
 
 ---
 
